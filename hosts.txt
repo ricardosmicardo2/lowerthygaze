@@ -1,6 +1,6 @@
 0.0.0.0    m.youtube.com
-0.0.0.0    www.baddieass.com
 0.0.0.0    baddieass.com
+0.0.0.0    www.baddieass.com
 0.0.0.0    www.youtube.com/shorts
 0.0.0.0    m.youtube.com/shorts
 0.0.0.0    redditplug.com
