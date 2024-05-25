@@ -1,3 +1,4 @@
+0.0.0.0    search.brave.com
 0.0.0.0    xgroovy.com
 0.0.0.0    www.xgroovy.com
 0.0.0.0    whoreshub.com
