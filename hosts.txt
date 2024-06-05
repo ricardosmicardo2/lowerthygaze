@@ -1,5 +1,6 @@
 0.0.0.0    instagram.com
 0.0.0.0    www.instagram.com
+0.0.0.0    m.instagram.com
 0.0.0.0    mega.io
 0.0.0.0    mega.nz
 0.0.0.0    wwww.mega.io
