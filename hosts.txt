@@ -1,3 +1,9 @@
+0.0.0.0    baddies247.com
+0.0.0.0    https://www.baddies247.com
+0.0.0.0    https://proxy-site-tor.com/
+0.0.0.0    proxy-site-tor.com
+0.0.0.0    https://www.4everproxy.com
+0.0.0.0    4everproxy.com
 0.0.0.0    instagram.com
 0.0.0.0    www.instagram.com
 0.0.0.0    m.instagram.com
