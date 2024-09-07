@@ -1,3 +1,8 @@
+0.0.0.0    duckduckgo.com
+0.0.0.0    croxyproxy.org
+0.0.0.0    www.croxyproxy.org
+0.0.0.0    www.wproxy.com
+0.0.0.0    wproxy.com
 0.0.0.0    baddies247.com
 0.0.0.0    https://www.baddies247.com
 0.0.0.0    https://proxy-site-tor.com/
